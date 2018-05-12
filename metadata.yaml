@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '3214'
     url: http://www.gutenberg.org/2009/agents/3214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30301#The-Side-Of-The-Angels--A-Novel
 gutenberg_issued: '2009-10-20'
 gutenberg_type: Text
 identifiers:
